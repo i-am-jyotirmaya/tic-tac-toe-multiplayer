@@ -1,0 +1,6 @@
+[submodule "tictactoe-multiplayer-backend"]
+	path = tictactoe-multiplayer-backend
+	url = https://github.com/i-am-jyotirmaya/tictactoe-multiplayer-backend.git
+[submodule "tictactoe-multiplayer-frontend"]
+	path = tictactoe-multiplayer-frontend
+	url = https://github.com/i-am-jyotirmaya/tictactoe-multiplayer-frontend.git
